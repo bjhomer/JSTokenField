@@ -198,7 +198,7 @@
 		1A1A068D13FEDEEC00CA6645 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = JamSoft;
 			};
 			buildConfigurationList = 1A1A069013FEDEEC00CA6645 /* Build configuration list for PBXProject "JSTokenField" */;
